@@ -1,0 +1,5 @@
+Ana Silva,Rua Flores, 123,ana.silva@email.com
+Carlos Oliveira,Av. Principal, 456,carlos.oliveira@email.com
+Beatriz Santos,Travessa Verde, 789,beatriz.santos@email.com
+Rafael Pereira,Alameda Sol, 101,rafael.pereira@email.com
+Camila Lima,Praça Central, 222,camila.lima@email.com
